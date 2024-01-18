@@ -1,7 +1,6 @@
 <h1 align="center"> Rocket Notes </h1>
 
 <p align="center">
-  <br/>
 </p>
 
 <p align="center">
@@ -35,10 +34,13 @@
 ## 🧑🏻‍💻 Technologies
 
 - HTML
-- CSS
+- CSS-in-JS
 - React
+- Node
+- Express
+- Knex.js
 
 ## 🎓 Worked on
 
 - CSS: `flex and grid`, `rem`, `tokens`, `align-self`, `responsive`
-- React: `folder structure`, `components`, `GlobalStyles`, `ThemeProvider`, `importing components`
+- React: `folder structure`, `components`, `GlobalStyles`, `ThemeProvider`, `importing components`, `API RESTful`

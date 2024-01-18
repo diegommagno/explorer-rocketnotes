@@ -9,12 +9,12 @@ export function Button({ title, loading = false, ...rest }) {
       disabled={loading}
       {...rest}
     >
-      { loading ? 'Carregando...' : title}
+      { loading ? 'Loading...' : title}
     </Container>
   );
 }
 
 Button.propTypes = {
-  title: PropTypes.string.isRequired,
+  title: PropTypes.string,
   loading: PropTypes.bool
 }
